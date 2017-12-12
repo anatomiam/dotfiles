@@ -1,8 +1,19 @@
-syntax on
+set t_Co=256
+set nocompatible
+filetype off
+colo brogrammer
+
+syntax enable
 set number
 set cursorline
-set hlsearch
+set wildmenu
 set incsearch
-inoremap jk <esc>
-set t_Co=256
-colo badwolf
+set hlsearch
+
+set tabstop=8
+set softtabstop=0
+set expandtab
+set shiftwidth=4
+set smarttab
+inoremap jj <Esc>
+-- VISUAL LINE --

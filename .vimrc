@@ -16,4 +16,3 @@ set expandtab
 set shiftwidth=4
 set smarttab
 inoremap jj <Esc>
--- VISUAL LINE --

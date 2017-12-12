@@ -1,0 +1,36 @@
+{
+    "window.zoomLevel": 0,
+    "window.openFilesInNewWindow": "on",
+    "window.openFoldersInNewWindow": "on",
+    "php.validate.run": "onType",
+    "diffEditor.renderSideBySide": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.autoIndent": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "phase",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Fira Code, monospace",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "editor.dragAndDrop": true,
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "window.nativeTabs": true,
+    "workbench.editor.revealIfOpen": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vim.disableAnnoyingGcMessage": true,
+    "workbench.panel.location": "bottom"
+}
